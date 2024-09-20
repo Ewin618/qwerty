@@ -1,2 +1,4 @@
 for i in range(100):
-    print("Hello Github")
+    print("Github")
+    print("Dibi = Idiota")
+    
